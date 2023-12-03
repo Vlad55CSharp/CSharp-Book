@@ -1,7 +1,7 @@
 ﻿/*
  * Пример использование условного оператора if в C#
  * Условия задачи: заданы два числа a и b, если a меньше b, то необходимо вывести на экран их сумму, иначе - вывести на экран их разность
- * Код опубликован на странице сайта https://csharp.webdelphi.ru/logicheskie-operatory-c/#_if
+ * Код опубликован на странице сайта https://csharp.webdelphi.ru/logicheskie-operatory-c/
  */
 namespace OperatorIf
 {

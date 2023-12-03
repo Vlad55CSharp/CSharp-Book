@@ -1,7 +1,7 @@
 ﻿/*
  * Пример использование оператора & в C#
  * Условия задачи: даны два числа a и b. Если хотя бы одно число больше 2, то вывести на экран их сумму, иначе - утроенную сумму.
- * Код опубликован на странице сайта https://csharp.webdelphi.ru/logicheskie-operatory-c/#_if
+ * Код опубликован на странице сайта https://csharp.webdelphi.ru/logicheskie-operatory-c/
  */
 namespace OperatorOr
 {
