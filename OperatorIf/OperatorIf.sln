@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleWhile", "..\CycleWhile
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleDoWhile", "..\CycleDoWhile\CycleDoWhile.csproj", "{03C23AF8-465A-4984-8B09-1E967B28040B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CycleForeach", "..\CycleForeach\CycleForeach.csproj", "{5521A542-5A7A-4780-AE4F-EB390C024CB1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{03C23AF8-465A-4984-8B09-1E967B28040B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{03C23AF8-465A-4984-8B09-1E967B28040B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{03C23AF8-465A-4984-8B09-1E967B28040B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5521A542-5A7A-4780-AE4F-EB390C024CB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5521A542-5A7A-4780-AE4F-EB390C024CB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5521A542-5A7A-4780-AE4F-EB390C024CB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5521A542-5A7A-4780-AE4F-EB390C024CB1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
